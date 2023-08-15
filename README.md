@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img src="https://tenor.com/bGP49.gif" width="100"/>
-</div>
-
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bGP49.gif">
 
 - 👋 Hi, I’m @floxiee
 - 👀 I’m interested in ...
