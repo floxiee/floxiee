@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://tenor.com/bGP49.gif" width="100"/>
+</div>
+
+
 - 👋 Hi, I’m @floxiee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
